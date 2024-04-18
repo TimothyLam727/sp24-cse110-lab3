@@ -58,7 +58,7 @@ body {
  
  
   .Agenda h3 {
-    color: color-mix(in srgb, #34c9eb 0%, yellow);
+    color: color-mix(in srgb, #34c9eb 0%, yellow 50%);
   }
  
  
@@ -127,7 +127,6 @@ body {
     display: flex;
     flex-direction: column-reverse;
     flex-wrap: nowrap;
-    justify-content: baseline;
   }
  
  
